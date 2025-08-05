@@ -40,3 +40,5 @@ All tasks are based on core Python concepts with hands-on practice through indiv
 ```bash
 python list_task.py
 
+📌 Report
+Please refer to report.pdf in this repository for a detailed summary of each task with screenshots and explanations.
