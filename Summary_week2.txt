@@ -1,0 +1,23 @@
+============================================================
+WEEK 2 – DATA STRUCTURES & FUNCTIONS
+============================================================
+What We Covered:
+- Built-in collections: lists (ordered), tuples (immutable), sets (unique), dictionaries (key/value).
+- When to use each structure and common operations (add, update, search).
+- Functions: defining, parameters, return values, defaults, unpacking.
+- Reuse and modularity: creating and importing your own modules.
+- Introduction to errors and safe coding: try/except/finally and specific exception types.
+
+Why It Matters:
+Real programs organize data. Choosing the right data structure makes your code faster,
+clearer, and easier to change. Functions and modules let you build larger applications.  
+
+Practical Highlights – You Can Now:
+- Store and manage structured records (students, products, tasks) in Python data structures.
+- Write reusable utility functions and import them across files.
+- Handle bad input or missing files without crashing.
+
+Catch-Up Plan:
+1. Study list, dict, and function examples in slides.
+2. Uncomment & run Week 2 code blocks.
+3. Build the Phonebook App mini-project (dict + JSON + functions).
